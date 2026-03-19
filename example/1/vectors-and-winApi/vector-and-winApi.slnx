@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="vector-and-winApi.vcxproj" Id="855216d9-c748-4307-9ebc-9ee5dc4fbaff" />
+</Solution>
